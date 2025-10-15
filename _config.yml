@@ -59,18 +59,18 @@ plugins:
 
 author:
   name   : "Brian Mengo N"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/IMG20231221080617.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://portfolion1883pwh2n.codedesign.app/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/brianmengo2"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/brianmengo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
