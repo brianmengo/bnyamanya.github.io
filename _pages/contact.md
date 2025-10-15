@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 permalink: /contact/
-layout: posts
+layout: single
 author_profile: true
 ---
 <h1>Contact Details</h1>
