@@ -42,12 +42,17 @@ author_profile: true
     Attachment 
 
 <h2>SKILLS</h2>
-    Javascript 60%<br>
-    ReactJS    40%<br>
-    CSS/HTML   80%<br>
-    AWS        70%<br>
-    Azure      40%<br>
-    Networking 60%
+    Javascript    60%
+    
+    ReactJS       40%
+    
+    CSS/HTML      80%
+    
+    AWS           70%
+    
+    Azure         40%
+    
+    Networking    60%
     
     
     
