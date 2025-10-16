@@ -2,8 +2,8 @@ main:
   - title: "Contact"
     url: /contact/
   - title: "Projects"
-    url: /project/
+    url: /projects/
   - title: "Lab-Challenges"
-    url: /labchallenge/
+    url: /labchallenges/
   - title: "About"
     url: /about/
