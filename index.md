@@ -17,7 +17,10 @@ author_profile: true
 
  <h3>Dedan Kimathi University</h3>
   Bsc. Business Information Technology - April 2021
-  <h3>Africa Institute of Development</h3>
+ <h3>ALX Africa</h3> 
+   Professional Foundation
+   ALX- Cloud Practitioner
+ <h3>Africa Institute of Development</h3>
   Certification in Computer Packages
 
 <h2>Certifications</h2>
@@ -27,12 +30,15 @@ author_profile: true
   ---Newtork Administration - Linux<br>
   ---Introduction to Cyber Security- Cisco<br>
   ---Routing and Switching - Cisco
+  ---Internet of Things - Cisco
   
 <h2>Work Experience</h2>
 
 <h3>The Nairobi Hospital</h3> 
     Security Controller - 2022-Present
- <h3>KPLC</h3>
+<h3>County Government of Nakuru</h3> 
+    Internship
+<h3>KPLC</h3>
     Attachment 
 
 
