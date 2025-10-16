@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Brian Mengo N"
-  avatar : "/assets/images/github.jpg"
+  avatar : "/assets/images/brio.jpg"
   bio    : "I am a Solutions Architect with a background of Security Controller and Cloud Security enthusiast.."
   links:
     - label: "Website"
@@ -109,7 +109,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /projects/
+  path: /category/
 tag_archive:
   type: liquid
-  path: /lab-challenges/
+  path: /tag/
