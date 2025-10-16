@@ -41,4 +41,15 @@ author_profile: true
 <h3>KPLC</h3>
     Attachment 
 
+<h2>SKILLS</h2>
+    Javascript 60%<br>
+    ReactJS    40%<br>
+    CSS/HTML   80%<br>
+    AWS        70%<br>
+    Azure      40%<br>
+    Networking 60%
+    
+    
+    
+
 
